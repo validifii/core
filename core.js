@@ -1,1 +1,3 @@
-// Write your package code here!
+Validifii = {};
+
+Validifii.createVcard
